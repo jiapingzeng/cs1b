@@ -1,0 +1,18 @@
+FEEDBACK:
+
+Excellent readable data table. An alternative is to use String.format() method 
+    to bound the number of decimal positions displayed!
+    
+    
+Good stress testing of your code. You are very close.
+
+
+-0 Implementation of class CellularData getNumSubscriptionsInCountryForPeriod() is not able
+   handle larger data set in a reasonable time. 
+   
+    I recommend creating an input file whose years are outside of 1960 and 2014.    
+    For example, the input range may be for year 2000 and 3000. Then populate with
+    randomly generated data.
+    
+-Bita.
+

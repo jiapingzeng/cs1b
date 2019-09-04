@@ -1,0 +1,23 @@
+FEEDBACK:
+
+Well done in converting your implementation to a generic data structure!
+    Note that the use of the iterator() method within the data structure
+    itself (such as in contains() and toString() method) is unconventional.
+    
+
+-1 Incomplete implementation of class Country getNumSupscriptionsForPeriod() method,
+   which should use an iterator to traverse the subscriptions. Partially accepting
+   with for-each loop.
+   See project description excerpt:
+   "Use an iterator in the getNumSupscriptionsForPeriod() method of the Country class. 
+   This method should use the iterator to traverse the list of SubscriptionYear elements."
+   Next time minus three for key requirements such as this.
+
+
+other comments:
+   Following up on Canvas question:
+   No, you do not need to implement a copy constructor in this project as we
+   are using generics. 
+   
+-Bita.
+

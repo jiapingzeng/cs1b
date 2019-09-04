@@ -1,0 +1,28 @@
+FEEDBACK:
+
++10% for submission by original due date.
+
+Overall, excellent job this quarter, especially in helping your fellow classmates 
+    and sharing your insights in the discussion forums!
+    
+    
++0.5 Excellent discussion of you approach and challenges you faced in your in README.md file!
+
+
+Nice organization of your project in data and view packages.
+
+
+Extra Credit Opportunity 1:
++2 Investigated and implemented parser and data model for second data set.
+     Would you share a link to where you found your data?
+
++2 Created a visual representation of second data set.
+
+
+Extra Credit Opportunity 2:
++2 Enables user to switch between data set
+
++2 Successfully tested new feature.
+    
+-Bita.
+

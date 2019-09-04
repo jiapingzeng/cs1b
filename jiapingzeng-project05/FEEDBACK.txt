@@ -1,0 +1,31 @@
+FEEDBACK:
+
+Nice clean implementation of extra credit portion!
+
+
+-0 How did you produce the output shown in sample 1?
+   Are the letters a b etc. representing debugging statements?
+   
+
+Extra Credit Opportunity:
++1 implementation of insertAtIndex() method.
++1 clearly defined test cases for insertAtIndex() method.   
++2 successfully tested insertAtIndex() method.   
+
+-Bita.
+
+
+
+sample output 1:
+Germany	94.55486999	102.2828888	115.1403608	126.5575074	126.2280577	106.4836959	109.6595675	111.5940398	120.9211651	120.4201855
+a
+b
+d
+c
+
+d
+a
+b
+c
+
+a

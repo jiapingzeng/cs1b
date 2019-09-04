@@ -1,0 +1,22 @@
+FEEDBACK:
+
+Well done!
+
+
+Good testing of your implementation. Consider distinguishing the purpose of the
+    different test cases with a brief description.
+
+
+other comments:
+When concatenating a String and any other object the object's toString() method
+  is implicitly called. For primitives such as a double, a String representation
+  is concatenated automatically:
+  return "" + numSubscriptions
+  So, you do not need to directly call Double.toString(subscriptions) method.
+  
+    public String toString() {
+        return Double.toString(subscriptions);
+    }
+      
+-Bita.
+

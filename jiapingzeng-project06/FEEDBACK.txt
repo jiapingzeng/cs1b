@@ -1,0 +1,10 @@
+FEEDBACK:
+
+Nice clean implementation using a copy constructor in class Country, CountryList, etc!
+
+
+Good concise clarification describing 
+    the changes you made at the selected index.
+    
+-Bita.
+

@@ -1,0 +1,6 @@
+Series Name,Series Code,Country Name,Country Code,1960 [YR1960],1961 [YR1961],1962 [YR1962],1963 [YR1963],1964 [YR1964],1965 [YR1965],1966 [YR1966],1967 [YR1967]
+"School enrollment, primary (% net)",SE.PRM.NENR,Country1,C1,1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8
+"School enrollment, primary (% net)",SE.PRM.NENR,Country2,C2,1.4,1.5,1.1,1.2,1.7,1.3,1.1,1.4
+"School enrollment, primary (% net)",SE.PRM.NENR,Country3,C3,1.1,1.1,1.6,1.2,1.6,1.4,1.4,1.1
+"School enrollment, primary (% net)",SE.PRM.NENR,Country4,C4,1.1,1.5,1.5,1.3,1.9,1.1,1.2,1.4
+"School enrollment, primary (% net)",SE.PRM.NENR,"C,o,u,n,tr,y,5",C5,..,0.1,1.8,1.2,1.7,1.5,1.4,1.5
